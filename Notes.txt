@@ -1,0 +1,4 @@
+These are my GitHub learning notes.
+- I created a repository
+- I edited the README
+- Now I’m creating a file!
